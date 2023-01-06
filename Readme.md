@@ -1,6 +1,9 @@
 # Project-4
 
-[Live Link](https://ineuron-live-class-project-4.netlify.app/ "Netlify")
+- ### [Live Link](https://ineuron-live-class-project-4.netlify.app/ "Netlify")
+- ### [Fincoder Link](https://www.findcoder.io/project/data-analytics-landing-page/63a6d2251c4320115612aebf)
+
+- ### [Youtube Link](https://www.youtube.com/@coderbynature)
 
 ## Name : Atul Singh
 
